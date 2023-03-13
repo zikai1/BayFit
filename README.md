@@ -5,12 +5,32 @@ Ellipsoid fitting is an important foundamental problem, which has various applic
 
 
 ## 2. Usage
-`Run "Demo.m" to see demo examples.`
+Step 1:
+
+`git clone https://github.com/zikai1/BayFit` or directly `download the source files`;
+
+
+Step 2:
+
+Compile the C++ files by the mex operation in Matlab command line as follows. To this end, you are recommended to install the `MinGW64 Compiler (C)` or `Microsoft Visual C++ 2019 (C)`. Once either one is successfully installed, then perform the subsequent steps:
+
+(1) Setup the compile by `mex -setup`
+
+(2) Then choose the compile language designed for C++  `mex -setup C++`
+
+(3) `mex knn_cpp.cpp`
+
+(4) `mex precompute.cpp`
+
+
+Step 3:
+
+`Run "demo.m" to see demo examples.`
 
 
 
 
 ## 3. Contact
-If you have any question, please do not hesitate to contact myzhao@baai.ac.cn
+If you have any question, please do not hesitate to contact myzhao@baai.ac.cn.
 
 
