@@ -36,6 +36,6 @@ Step 3:
 
 ## 3. Contact
 -----------------------
-If you have any question, please [submit an issue](https://github.com/zikai1/BayFit/issues) or contact me via myzhao@baai.ac.cn.
+If you have any question, please [submit an issue](https://github.com/zikai1/BayFit/issues) or contact me via ｍｉｇｙａｎｇｚ＠ｇｍａｉｌ．ｃｏｍ.
 
 
