@@ -1,5 +1,5 @@
-# BayFit
-This repository contains our official implementation of _A Bayesian Approach Toward Robust and Multidimensional Ellipsoid Fitting_. 
+# BayFit (TPAMI 2024)
+This repository contains our official implementation of _A Bayesian Approach Toward Robust and Multidimensional Ellipsoid Fitting_, which has been accepted by TPAMI 2024.
 ## 1. Motivation
 -----------------------
 
